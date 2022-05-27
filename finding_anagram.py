@@ -13,6 +13,6 @@ def find_anagram(word, anagram):
     else:
         print(False)
 
-find_anagram("Hello", "Chcek")
+find_anagram("Hello", "Check")
 find_anagram("below", "elbow")
     
